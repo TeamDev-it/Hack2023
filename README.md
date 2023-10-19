@@ -53,7 +53,7 @@ Va implementano un messagebus di comunicazione frontend per moduli ESM in modo t
 
 * microfrontend: https://riccardogmoschetti.github.io/micro-frontends/
 
-* modulo di riferimento: https://riccardogmoschetti.github.io/micro-frontends/
+* modulo di riferimento: https://github.com/ppossanzini/vue-mf-module
 
 
 
